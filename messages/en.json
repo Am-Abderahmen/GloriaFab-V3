@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "realisations": "Portfolio",
+    "contact": "Contact",
+    "cta": "Start a project",
+    "lang": "EN"
+  },
+  "footer": {
+    "tagline": "The art of textile at the service of modern brands.",
+    "quickLinks": "Navigation",
+    "contactUs": "Contact",
+    "followUs": "Follow us",
+    "rights": "All rights reserved."
+  },
+  "home": {
+    "heroTitle": "Shaping collections with elegance and precision.",
+    "heroSubtitle": "GloriaFab supports brands in garment manufacturing, from textile expertise to the finished piece.",
+    "heroBtn1": "Explore our work",
+    "heroBtn2": "Start a project",
+    "presentTitle": "A textile workshop at the service of modern brands.",
+    "presentText": "GloriaFab supports brands in garment manufacturing with an approach that combines textile expertise, precision and attention to detail. From fabric selection to the finished piece, each creation is designed to reflect quality, comfort and elegance. Our mission is to help our partners bring their collections to life with reliability, flexibility and excellence.",
+    "presentBtn": "Discover GloriaFab",
+    "featuredTitle": "Selected works",
+    "featuredBtn": "View our portfolio",
+    "processTitle": "From idea to finished piece",
+    "processText": "Each piece goes through a controlled process designed to guarantee consistency, quality and elegance in every detail.",
+    "processSteps": [
+      "Pattern development",
+      "Fabric selection",
+      "Cutting & sewing",
+      "Quality control",
+      "Finishing & preparation"
+    ],
+    "ctaTitle": "Do you have a collection to develop?",
+    "ctaSubtitle": "Let's discuss your needs and see how GloriaFab can support your next textile project.",
+    "ctaEmail": "Send an email",
+    "ctaWhatsapp": "WhatsApp",
+    "ctaCall": "Call us"
+  },
+  "about": {
+    "heroTitle": "Born from a land of history, shaped by craftsmanship.",
+    "heroSubtitle": "In El Guettar, between mountains, oasis and millennia of memory, GloriaFab extends a culture of precise, creative and demanding work.",
+    "guettarTitle": "El Guettar, a land of memory",
+    "guettarText": "El Guettar is a land where history can be read through its landscape, stone, water and collective memory. Nestled between the Djebel range and the palm groves of the south, this region carries a rare depth. The Hermaion of El Guettar — one of humanity's most ancient vestiges — bears witness to a millennial bond between man, stone, water and territory. A place where human beings learned to transform matter with intention and precision.",
+    "guettarNote": "* Historical data to be verified before publication.",
+    "mountainTitle": "Between mountain and oasis",
+    "mountainText": "The mountain teaches strength, patience and endurance. It demands respect for raw material, the slowness of the right gesture. The oasis celebrates life, balance and continuity — water emerging from the desert, palm trees offering shade and abundance, agriculture rooted in deep time. Together, mountain and oasis forged creative, hardworking, precise people. A community that knows how to create, transmit and endure.",
+    "craftTitle": "From artisanal gesture to modern manufacturing.",
+    "craftText": "El Guettar's artisanal expertise is part of the living memory of the territory. Generations learned to work with matter patiently, to create with gestures passed from hand to hand, to value every detail. This spirit flows directly into GloriaFab: sewing, cutting, assembling, finishing, respecting the material and creating modern, elegant garments for today's brands.",
+    "craftPhrase": "One spirit: the material, the gesture, the precision.",
+    "birthTitle": "The birth of GloriaFab",
+    "birthText": "GloriaFab was born from this land of memory, mountain and oasis, with the will to transform local energy, creativity and professionalism into a modern textile workshop. Our ambition is simple: to offer brands a reliable, precise and creative partner, capable of bringing their collections to life with the care and excellence their identity deserves.",
+    "savoirTitle": "From heritage to contemporary garment.",
+    "savoirItems": [
+      "Casual & fashion garments",
+      "Workwear",
+      "Sportswear",
+      "Uniforms",
+      "Lingerie",
+      "Textile finishes & details"
+    ],
+    "whyTitle": "Why choose GloriaFab",
+    "whyItems": [
+      {
+        "title": "Textile expertise",
+        "text": "Years of mastery in garment manufacturing, from thread to finished piece."
+      },
+      {
+        "title": "Precision & quality",
+        "text": "Every piece is controlled to ensure consistent, rigorous quality."
+      },
+      {
+        "title": "Flexibility",
+        "text": "Small and large runs — we adapt to every brand's needs."
+      },
+      {
+        "title": "Local roots",
+        "text": "A Tunisian workshop combining artisanal tradition and modern standards."
+      }
+    ],
+    "ctaTitle": "Ready to bring your collection to life?",
+    "ctaBtn": "Start a project"
+  },
+  "realisations": {
+    "heroTitle": "Our textile portfolio",
+    "heroSubtitle": "Discover a selection of pieces that illustrate our expertise, precision and ability to support different clothing universes.",
+    "intro": "Each piece presented here reflects a manufacturing possibility, a style or a product family that GloriaFab can support. This gallery is not a sales catalogue, but a showcase of our textile expertise.",
+    "filters": {
+      "all": "All",
+      "vetements": "Garments",
+      "lingerie": "Lingerie",
+      "travail": "Workwear",
+      "sport": "Sportswear",
+      "uniformes": "Uniforms",
+      "maison": "Home / Textiles"
+    },
+    "audience": {
+      "homme": "Men",
+      "femme": "Women",
+      "enfant": "Children",
+      "unisexe": "Unisex / B2B",
+      "maison": "Home"
+    },
+    "viewBtn": "View",
+    "modalBtn": "Discuss a similar project",
+    "material": "Material",
+    "usage": "Usage",
+    "filtersLabel": "Filters",
+    "categoryLabel": "Category",
+    "audienceLabel": "Audience",
+    "resultsOne": "result",
+    "resultsMany": "results",
+    "emptyState": "No realisations in this category.",
+    "closeBtn": "Close",
+    "prevPhoto": "Previous photo",
+    "nextPhoto": "Next photo"
+  },
+  "contact": {
+    "heroTitle": "Let's launch your next textile project.",
+    "heroSubtitle": "An idea, a collection, a manufacturing need? Contact GloriaFab to discuss your project and explore collaboration possibilities.",
+    "directTitle": "Let's talk about your project.",
+    "directText": "Choose the easiest way to reach us. Our team will respond directly to understand your needs and guide you toward the best solution.",
+    "emailBtn": "Send an email",
+    "whatsappBtn": "WhatsApp",
+    "callBtn": "Call us",
+    "addressTitle": "Our workshop",
+    "directions": "Get directions",
+    "socialTitle": "Follow us",
+    "ctaTitle": "Your next project starts here.",
+    "ctaText": "GloriaFab is ready to transform your vision into textile reality."
+  }
+}
